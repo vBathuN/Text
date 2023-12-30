@@ -1,3 +1,7 @@
+.body {
+  font-family: 'InaiMathi', 'Tamil Sangam MN', 'Nirmala UI', Latha, Bamini,
+    Roboto, Noto, 'Noto Sans Tamil', sans-serif;
+}
 
 .ml2 {
   font-weight: 900;
